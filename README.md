@@ -1,7 +1,7 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
-Developed By: Senthil Raj G
+Developed By: Vishal.C
 
-Register Number: 212224100054
+Register Number: 212224100062
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
